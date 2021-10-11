@@ -1,0 +1,14 @@
+#output {
+    background: white;
+    border-radius: 10px;
+    border: black solid 2px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    width: 500px;
+}
+
+p {
+    display: inline-block;
+}
